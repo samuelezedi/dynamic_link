@@ -27,7 +27,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       routes: <String, WidgetBuilder>{
-        '/': (BuildContext context) => MyHomePage(),
         '/second': (BuildContext context) => SecondScreen(),
         '/third': (BuildContext context) => ThirdScreen(),
       },
