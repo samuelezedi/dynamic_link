@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910174982146",
+    "firebase_url": "https://dynamically-24f92.firebaseio.com",
+    "project_id": "dynamically-24f92",
+    "storage_bucket": "dynamically-24f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910174982146:android:c122f2619dfd2bd306571b",
+        "android_client_info": {
+          "package_name": "net.cubiclab.learndynamiclink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910174982146-1cvklt7ph4e4dcidj5beccc2cogjm467.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUNjWgjQzs0sPbQLTEeeaaD70gydBnAgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910174982146-1cvklt7ph4e4dcidj5beccc2cogjm467.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
